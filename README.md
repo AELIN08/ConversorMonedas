@@ -57,4 +57,17 @@ Se pueden agregar más fácilmente editando la clase `MenuConversor`.
 
 ---
 
+### 🎓 Challenge - Alura Latam | Oracle Next Education
+
+Este conversor de monedas fue desarrollado como parte del **Challenge de Java Orientado a Objetos** del programa [**ONE - Oracle Next Education**] en colaboración con [**Alura Latam**].
+
+💡 El objetivo del reto fue aplicar conocimientos adquiridos sobre:
+- Java básico y orientado a objetos
+- Consumo de APIs con `HttpClient`
+- Manipulación de JSON con la biblioteca `Gson`
+- Diseño de menús interactivos por consola
+- Buenas prácticas de programación
+
+🛠️ **Este proyecto fue de mi autoria [Evelin Mondragon], como parte de mi formación en el programa ONE.**
+
 
